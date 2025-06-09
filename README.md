@@ -16,31 +16,20 @@ A modern, full-featured digital banking platform built with Spring Boot (backend
 The **Online Banking System** delivers a secure, intuitive, and robust digital banking experience. Users can manage accounts, transfer funds, apply for cards, pay bills, review transactions, and more — all via a user-friendly interface.
 
 **Tech Stack:**
-- **Backend:** Spring Boot, MySQL, JPA
-- **Frontend:** React, Tailwind CSS, Flowbite, React Icons, Sweet Alerts
-- **Authentication:** Google OAuth2
-- **Frontend Libraries:** Protected Routes, Context API
-
----
-
-## 🚀 Tech Stack
-
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+- **Backend:** [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![JPA](https://img.shields.io/badge/JPA-ORM-orange)](https://www.oracle.com/java/technologies/persistence-jsp.html)
-[![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)](https://react.dev/)
+- **Frontend:** [![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Styling-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Flowbite](https://img.shields.io/badge/Flowbite-UI%20Components-38BDF8?logo=flowbite&logoColor=white)](https://flowbite.com/)
 [![React Icons](https://img.shields.io/badge/React%20Icons-Icons-blueviolet)](https://react-icons.github.io/react-icons/)
 [![SweetAlert](https://img.shields.io/badge/SweetAlert-Alerts-FF5A5F)](https://sweetalert2.github.io/)
-[![Google OAuth2](https://img.shields.io/badge/Google%20OAuth2-Authentication-4285F4?logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
-[![Protected Routes](https://img.shields.io/badge/Protected%20Routes-Routing-yellowgreen)](#)
+- **Authentication:** [![Google OAuth2](https://img.shields.io/badge/Google%20OAuth2-Authentication-4285F4?logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
+- **Frontend Libraries:** [![Protected Routes](https://img.shields.io/badge/Protected%20Routes-Routing-yellowgreen)](#)
 [![Context API](https://img.shields.io/badge/Context%20API-State%20Management-lightgrey)](https://react.dev/reference/react/useContext)
 
-**Backend:** Spring Boot, MySQL, JPA  
-**Frontend:** React, Tailwind CSS, Flowbite, React Icons, Sweet Alerts  
-**Authentication:** Google OAuth2  
-**Frontend Libraries:** Protected Routes, Context API  
+
+---
 
 ## 📚 Features Overview
 
@@ -82,7 +71,7 @@ The **Online Banking System** delivers a secure, intuitive, and robust digital b
 ### Backend (Spring Boot)
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/online-banking-system.git
+   git clone https://github.com/Sahilnaik18/Online-Banking-System.git
    ```
 2. **Navigate to backend:**
    ```bash
@@ -143,7 +132,6 @@ See our _Contributing Guidelines_ for more details.
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/)  
-- [Gmail](mailto:your-email@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilnaik18)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?logo=gmail&logoColor=white)](mailto:sahilnaik1515@gmail.com)
 ---
