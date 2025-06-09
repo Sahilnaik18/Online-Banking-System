@@ -1,5 +1,12 @@
 # 🏦 Online Banking System
 
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)](https://react.dev/)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Google OAuth2](https://img.shields.io/badge/Google%20OAuth2-Authentication-4285F4?logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
+[![Live Preview](https://img.shields.io/badge/Preview-Live-brightgreen)](#) <!-- Replace "#" with your preview URL -->
+
+
 A modern, full-featured digital banking platform built with Spring Boot (backend), React (frontend), MySQL, and Google OAuth2 authentication.
 
 ---
