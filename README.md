@@ -23,6 +23,25 @@ The **Online Banking System** delivers a secure, intuitive, and robust digital b
 
 ---
 
+## 🚀 Tech Stack
+
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JPA](https://img.shields.io/badge/JPA-ORM-orange)](https://www.oracle.com/java/technologies/persistence-jsp.html)
+[![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Styling-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Flowbite](https://img.shields.io/badge/Flowbite-UI%20Components-38BDF8?logo=flowbite&logoColor=white)](https://flowbite.com/)
+[![React Icons](https://img.shields.io/badge/React%20Icons-Icons-blueviolet)](https://react-icons.github.io/react-icons/)
+[![SweetAlert](https://img.shields.io/badge/SweetAlert-Alerts-FF5A5F)](https://sweetalert2.github.io/)
+[![Google OAuth2](https://img.shields.io/badge/Google%20OAuth2-Authentication-4285F4?logo=google&logoColor=white)](https://developers.google.com/identity/protocols/oauth2)
+[![Protected Routes](https://img.shields.io/badge/Protected%20Routes-Routing-yellowgreen)](#)
+[![Context API](https://img.shields.io/badge/Context%20API-State%20Management-lightgrey)](https://react.dev/reference/react/useContext)
+
+**Backend:** Spring Boot, MySQL, JPA  
+**Frontend:** React, Tailwind CSS, Flowbite, React Icons, Sweet Alerts  
+**Authentication:** Google OAuth2  
+**Frontend Libraries:** Protected Routes, Context API  
+
 ## 📚 Features Overview
 
 ### 🔐 Secure Authentication
